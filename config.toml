@@ -1,0 +1,14 @@
+languageCode = "en-us"
+title = "wes"
+theme = "hyde-y"
+
+comment = "http://themes.gohugo.io/hyde-y/"
+
+[params]
+    # You can use markdown here.
+    brand = "wburningham"
+    topline = "few words about your site"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
