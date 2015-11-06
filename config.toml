@@ -1,3 +1,4 @@
+baseurl = "http://hairdresser-tony-15148.netlify.com/"
 languageCode = "en-us"
 title = "wes"
 theme = "hyde-y"
